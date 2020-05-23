@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab7c5e5d0ce6bda595f679e3c8c96d27",
+    "revision": "4954fa7a1ca5f8b877e3e0266ea6603f",
     "url": "/typerace/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/typerace/static/css/2.5299f3fc.chunk.css"
   },
   {
-    "revision": "8ac0fae58d56c689248e",
+    "revision": "bbb7182a15fc9da67c8b",
     "url": "/typerace/static/css/main.7b208690.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/typerace/static/js/2.6c03a89f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ac0fae58d56c689248e",
-    "url": "/typerace/static/js/main.30788a2e.chunk.js"
+    "revision": "bbb7182a15fc9da67c8b",
+    "url": "/typerace/static/js/main.3aad0067.chunk.js"
   },
   {
     "revision": "8e7854e48283ed8c3ece",
