@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/typeracer/static/css/main.a97b473d.chunk.css",
-    "main.js": "/typeracer/static/js/main.3c0095fe.chunk.js",
-    "main.js.map": "/typeracer/static/js/main.3c0095fe.chunk.js.map",
-    "runtime-main.js": "/typeracer/static/js/runtime-main.b8b3d976.js",
-    "runtime-main.js.map": "/typeracer/static/js/runtime-main.b8b3d976.js.map",
-    "static/css/2.5299f3fc.chunk.css": "/typeracer/static/css/2.5299f3fc.chunk.css",
-    "static/js/2.824d0cb9.chunk.js": "/typeracer/static/js/2.824d0cb9.chunk.js",
-    "static/js/2.824d0cb9.chunk.js.map": "/typeracer/static/js/2.824d0cb9.chunk.js.map",
-    "index.html": "/typeracer/index.html",
-    "precache-manifest.94525b11f594a44bfa525ccbd2f392ce.js": "/typeracer/precache-manifest.94525b11f594a44bfa525ccbd2f392ce.js",
-    "service-worker.js": "/typeracer/service-worker.js",
-    "static/css/2.5299f3fc.chunk.css.map": "/typeracer/static/css/2.5299f3fc.chunk.css.map",
-    "static/css/main.a97b473d.chunk.css.map": "/typeracer/static/css/main.a97b473d.chunk.css.map",
-    "static/js/2.824d0cb9.chunk.js.LICENSE.txt": "/typeracer/static/js/2.824d0cb9.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/typeracer/static/media/RobotoMono-Regular.b4618f1f.ttf",
-    "static/media/spinner.gif": "/typeracer/static/media/spinner.7b68e9d4.gif",
-    "static/media/typing.gif": "/typeracer/static/media/typing.d3916c2d.gif"
+    "main.css": "/typerace/static/css/main.7b208690.chunk.css",
+    "main.js": "/typerace/static/js/main.30788a2e.chunk.js",
+    "main.js.map": "/typerace/static/js/main.30788a2e.chunk.js.map",
+    "runtime-main.js": "/typerace/static/js/runtime-main.8ba54700.js",
+    "runtime-main.js.map": "/typerace/static/js/runtime-main.8ba54700.js.map",
+    "static/css/2.5299f3fc.chunk.css": "/typerace/static/css/2.5299f3fc.chunk.css",
+    "static/js/2.6c03a89f.chunk.js": "/typerace/static/js/2.6c03a89f.chunk.js",
+    "static/js/2.6c03a89f.chunk.js.map": "/typerace/static/js/2.6c03a89f.chunk.js.map",
+    "index.html": "/typerace/index.html",
+    "precache-manifest.33419d6dc8cbfbaad94fab25e45ed725.js": "/typerace/precache-manifest.33419d6dc8cbfbaad94fab25e45ed725.js",
+    "service-worker.js": "/typerace/service-worker.js",
+    "static/css/2.5299f3fc.chunk.css.map": "/typerace/static/css/2.5299f3fc.chunk.css.map",
+    "static/css/main.7b208690.chunk.css.map": "/typerace/static/css/main.7b208690.chunk.css.map",
+    "static/js/2.6c03a89f.chunk.js.LICENSE.txt": "/typerace/static/js/2.6c03a89f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/typerace/static/media/RobotoMono-Regular.b4618f1f.ttf",
+    "static/media/spinner.gif": "/typerace/static/media/spinner.7b68e9d4.gif",
+    "static/media/typing.gif": "/typerace/static/media/typing.d3916c2d.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8b3d976.js",
+    "static/js/runtime-main.8ba54700.js",
     "static/css/2.5299f3fc.chunk.css",
-    "static/js/2.824d0cb9.chunk.js",
-    "static/css/main.a97b473d.chunk.css",
-    "static/js/main.3c0095fe.chunk.js"
+    "static/js/2.6c03a89f.chunk.js",
+    "static/css/main.7b208690.chunk.css",
+    "static/js/main.30788a2e.chunk.js"
   ]
 }
