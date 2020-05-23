@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/typerace/static/css/main.7b208690.chunk.css",
-    "main.js": "/typerace/static/js/main.3aad0067.chunk.js",
-    "main.js.map": "/typerace/static/js/main.3aad0067.chunk.js.map",
+    "main.js": "/typerace/static/js/main.5874e34e.chunk.js",
+    "main.js.map": "/typerace/static/js/main.5874e34e.chunk.js.map",
     "runtime-main.js": "/typerace/static/js/runtime-main.8ba54700.js",
     "runtime-main.js.map": "/typerace/static/js/runtime-main.8ba54700.js.map",
     "static/css/2.5299f3fc.chunk.css": "/typerace/static/css/2.5299f3fc.chunk.css",
     "static/js/2.6c03a89f.chunk.js": "/typerace/static/js/2.6c03a89f.chunk.js",
     "static/js/2.6c03a89f.chunk.js.map": "/typerace/static/js/2.6c03a89f.chunk.js.map",
     "index.html": "/typerace/index.html",
-    "precache-manifest.bbae27e4826e7ce14f2098b1a7aad43e.js": "/typerace/precache-manifest.bbae27e4826e7ce14f2098b1a7aad43e.js",
+    "precache-manifest.6ed911e2e9f6f565db76c5d09cd271b5.js": "/typerace/precache-manifest.6ed911e2e9f6f565db76c5d09cd271b5.js",
     "service-worker.js": "/typerace/service-worker.js",
     "static/css/2.5299f3fc.chunk.css.map": "/typerace/static/css/2.5299f3fc.chunk.css.map",
     "static/css/main.7b208690.chunk.css.map": "/typerace/static/css/main.7b208690.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.5299f3fc.chunk.css",
     "static/js/2.6c03a89f.chunk.js",
     "static/css/main.7b208690.chunk.css",
-    "static/js/main.3aad0067.chunk.js"
+    "static/js/main.5874e34e.chunk.js"
   ]
 }
