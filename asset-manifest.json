@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/typeracer/static/css/main.a97b473d.chunk.css",
+    "main.js": "/typeracer/static/js/main.3c0095fe.chunk.js",
+    "main.js.map": "/typeracer/static/js/main.3c0095fe.chunk.js.map",
+    "runtime-main.js": "/typeracer/static/js/runtime-main.b8b3d976.js",
+    "runtime-main.js.map": "/typeracer/static/js/runtime-main.b8b3d976.js.map",
+    "static/css/2.5299f3fc.chunk.css": "/typeracer/static/css/2.5299f3fc.chunk.css",
+    "static/js/2.824d0cb9.chunk.js": "/typeracer/static/js/2.824d0cb9.chunk.js",
+    "static/js/2.824d0cb9.chunk.js.map": "/typeracer/static/js/2.824d0cb9.chunk.js.map",
+    "index.html": "/typeracer/index.html",
+    "precache-manifest.94525b11f594a44bfa525ccbd2f392ce.js": "/typeracer/precache-manifest.94525b11f594a44bfa525ccbd2f392ce.js",
+    "service-worker.js": "/typeracer/service-worker.js",
+    "static/css/2.5299f3fc.chunk.css.map": "/typeracer/static/css/2.5299f3fc.chunk.css.map",
+    "static/css/main.a97b473d.chunk.css.map": "/typeracer/static/css/main.a97b473d.chunk.css.map",
+    "static/js/2.824d0cb9.chunk.js.LICENSE.txt": "/typeracer/static/js/2.824d0cb9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/typeracer/static/media/RobotoMono-Regular.b4618f1f.ttf",
+    "static/media/spinner.gif": "/typeracer/static/media/spinner.7b68e9d4.gif",
+    "static/media/typing.gif": "/typeracer/static/media/typing.d3916c2d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8b3d976.js",
+    "static/css/2.5299f3fc.chunk.css",
+    "static/js/2.824d0cb9.chunk.js",
+    "static/css/main.a97b473d.chunk.css",
+    "static/js/main.3c0095fe.chunk.js"
+  ]
+}
