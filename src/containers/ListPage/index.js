@@ -67,6 +67,11 @@ const ListPage = ({ store, onFetchHistoryList, onResetData }) => {
                   <td>{dt.rank ? `${dt.rank}` : '-'}</td>
                 </tr>
               ))}
+              {historyList && historyList.length < 1 && (
+                <tr>
+                  <td colspan="4">No Record Found!</td>
+                </tr>
+              )}
             </tbody>
           </table>
         </TableContainer>
